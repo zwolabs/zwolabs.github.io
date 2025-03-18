@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "zwo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Unseen, zwo shapes the digital world—steady, quiet, essential."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
