@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "zwo"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/zwo.png"
   bio    : "Unseen, zwo shapes the digital world — steady, quiet, essential."
   links:
     - label: "Website"
