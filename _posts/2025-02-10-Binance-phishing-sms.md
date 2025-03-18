@@ -11,4 +11,4 @@ tags:
 
 A nice attempt at crafting a phishing SMS using common psychological tactics to provoke an unreflective click on the phishing link.
 
-![Image](/images/20250210-SMS-Binance.jpg)
+![Image](/assets/images/20250210-SMS-Binance.jpg)
