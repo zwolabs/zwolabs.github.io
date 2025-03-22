@@ -15,7 +15,7 @@ The approach to Commerzbank customers is interesting. The name of Comdirect - an
 
 The greeting in the trivialized form is completely absurd.
 
-![Image](/assets/images/20250318-sms-commerzbank.jpg)
+![Image](/assets/images/2025-03-18-sms-commerzbank.jpg)
 
 As you can see, the link points to a domain that has already been recognized as a phishing website. You can use [Virustotal.com](https://www.virustotal.com/gui/home/url){:target="_blank"} to check URLs before getting surprised.
 
