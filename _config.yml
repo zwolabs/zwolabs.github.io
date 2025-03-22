@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "zwo"
-  avatar : "/assets/images/ntwrk404_logo.png"
+  avatar : "/assets/images/ntwrk404_logo_full.png"
   bio    : "Unseen, NTWRK404 shapes the digital world — steady, quiet, essential."
   links:
     - label: "Website"
