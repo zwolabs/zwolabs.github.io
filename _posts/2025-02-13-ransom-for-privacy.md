@@ -3,13 +3,15 @@ title: "Ransom for privacy"
 categories:
   - ransom
   - mail
-tags:
   - bitcoin
+tags:
 ---
 
-This is what a ransomware extortion looks like when it comes by email. As a rule, not only your email address is the recipient address in your client, but also the sender address
+This is what a ransomware extortion looks like when it comes by email. As a rule, not only your email address is the recipient address in your client, but also the sender address.
 
-For good reason I have removed the email address and also the Bitcoin address.
+For good reason we have removed the email address and also the Bitcoin address.
+
+As is so often the case, fear and time pressure are at work. Of course, the recipient has not paid.
 
 >Subject Hey, you have forgotten something
 >
