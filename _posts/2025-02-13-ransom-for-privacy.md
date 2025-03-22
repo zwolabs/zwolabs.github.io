@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-This is what a ransomware extortion looks like when it comes by email. As a rule, not only your email address is the recipient address in your client, but also the sender address.
+This is what a ransom note looks like when it arrives by email. As a rule, not only your e-mail address is the recipient address in your mailclient, but also the sender address.
 
 For good reason we have removed the email address and also the Bitcoin address.
 
