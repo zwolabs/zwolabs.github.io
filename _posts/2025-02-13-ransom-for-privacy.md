@@ -3,7 +3,7 @@ title: "Ransom for privacy"
 categories:
   - ransom
   - mail
-  tags:
+tags:
   - bitcoin
 ---
 
