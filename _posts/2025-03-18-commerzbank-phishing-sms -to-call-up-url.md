@@ -2,11 +2,11 @@
 title: "Commerzbank phishing SMS to call up url"
 date: 2025-02-10T22:13:00-04:00
 categories:
-  - blog
+  - phishing
+  - sms
 tags:
-  - Phishing
-  - Binance
-  - SMS
+  - commerzbank
+  - comdirect
 ---
 
 A nice attempt to create a phishing text message using common psychological tactics to provoke an unthinking click on the phishing link.

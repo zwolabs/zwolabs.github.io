@@ -1,11 +1,10 @@
 ---
 title: "Binance phishing SMS for a callback"
 categories:
-  - blog
+  - phishing
+  - sms
 tags:
-  - Phishing
-  - Binance
-  - SMS
+  - binance
 ---
 
 A nice attempt at crafting a phishing SMS that uses common psychological tactics to provoke an impulsive action. Displaying the phone and location makes the message even more intriguing.

@@ -1,11 +1,10 @@
 ---
 title: "Binance phishing SMS to call up a URL"
 categories:
-  - blog
+  - phishing
+  - sms
 tags:
-  - Phishing
-  - Binance
-  - SMS
+  - binance
 ---
 
 A nice attempt at crafting a phishing SMS using common psychological tactics to provoke an unreflective click on the phishing link.
