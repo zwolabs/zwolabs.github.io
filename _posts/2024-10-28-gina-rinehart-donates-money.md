@@ -5,7 +5,7 @@ categories:
   - mail
   - donation
 tags:
-  - Gina_Reinhart
+  - Gina Reinhart
 ---
 
 In this case, a real person, Ms. Gina Rinehart, is used to create a seriousness. There is also a link to Wikipedia to “prove” that Gina Rinehart is real.
