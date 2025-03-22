@@ -22,9 +22,11 @@ As is so often the case, fear and time pressure are at play. Of course, the reci
 >Shortly after, I started recording all internet activities done by you.
 >
 >---
+>
 >Below is the sequence of events of how that happened 
 >Earlier I purchased from hackers a unique access to diversified email accounts (at the moment, it is really easy to do using internet).
 >As you can see, I managed to log in to your email account without breaking a sweat (--EMAIL-ADDRESS--).
+>
 >---
 >
 >Within one week afterwards, I installed a Trojan virus in your Operating Systems available on all devices >that you utilize for logging in your email.
