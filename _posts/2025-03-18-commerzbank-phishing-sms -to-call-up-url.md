@@ -14,6 +14,6 @@ The approach to Commerzbank customers is interesting. The name of Comdirect - an
 
 The greeting in the trivialized form is completely absurd.
 
-![Image](/assets/images/20250318-sms-commerzbank.jpg)
+![Image](/assets/images/2025-03-18-sms-commerzbank.jpg)
 
 Identifying features have been removed.
