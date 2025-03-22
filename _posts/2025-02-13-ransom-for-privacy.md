@@ -95,4 +95,4 @@ As is so often the case, fear and time pressure are at play. Of course, the reci
 >Here is my last advice to you. In future you better ensure you stay away from this kind of situations.
 >My advice - don't forget to regularly update your passwords to feel completely secure.
 
-If you don't have a camera on your computer, you have nothing to worry about. If in doubt, it helps to habitually cover the camera when you are not in a video conference.
+If you don't have a camera on your computer, you have nothing to worry about. If in doubt, it helps to habitually cover the camera when you are not attending a video call.
