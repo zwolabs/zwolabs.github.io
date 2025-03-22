@@ -3,6 +3,7 @@ title: "Binance phishing SMS for a callback"
 categories:
   - phishing
   - sms
+  - callback
 tags:
   - binance
 ---

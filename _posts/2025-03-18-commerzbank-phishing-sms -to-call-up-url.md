@@ -4,6 +4,7 @@ date: 2025-02-10T22:13:00-04:00
 categories:
   - phishing
   - sms
+  - url
 tags:
   - commerzbank
   - comdirect

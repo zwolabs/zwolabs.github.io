@@ -3,6 +3,7 @@ title: "Binance phishing SMS to call up a URL"
 categories:
   - phishing
   - sms
+  - url
 tags:
   - binance
 ---
