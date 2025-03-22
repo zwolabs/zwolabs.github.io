@@ -10,7 +10,7 @@ tags:
 
 In this case, a real person, Ms. Gina Rinehart, is used to create a seriousness. There is also a link to Wikipedia to “prove” that Gina Rinehart is real.
 
-In less than a year, the recipient has received 12 messages of the same type. The only difference is the e-mail address used. 
+In less than a year, the recipient has received 12 messages of the same type. The only difference is the email address used. 
 
 >Subject: Re: Re: Re:
 >
