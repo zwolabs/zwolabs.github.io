@@ -11,7 +11,7 @@ This is what a ransomware extortion looks like when it comes by email. As a rule
 
 For good reason we have removed the email address and also the Bitcoin address.
 
-As is so often the case, fear and time pressure are at work. Of course, the recipient has not paid.
+As is so often the case, fear and time pressure are at play. Of course, the recipient has not paid.
 
 >Subject Hey, you have forgotten something
 >
