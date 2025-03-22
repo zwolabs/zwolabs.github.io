@@ -12,9 +12,6 @@ In this case, a real person, Ms. Gina Rinehart, is used to create a seriousness.
 
 In less than a year, the recipient has received 12 messages of the same type. The only difference is the e-mail address used. 
 
->From: Gina Rinehart <order@mwprem.net>
->Sent: xxxxxxxx, October x 2024, x:xx am
->To: Recipients <order@mwprem.net>
 >Subject: Re: Re: Re:
 >
 >Hallo
