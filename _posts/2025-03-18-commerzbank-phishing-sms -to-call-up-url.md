@@ -1,6 +1,5 @@
 ---
-title: "Commerzbank phishing SMS to call up url"
-date: 2025-02-10T22:13:00-04:00
+title: "Commerzbank phishing SMS to call up URL"
 categories:
   - phishing
   - sms
