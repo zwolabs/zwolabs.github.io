@@ -6,6 +6,11 @@ categories:
   tags:
   - bitcoin
 ---
+
+This is what a ransomware extortion looks like when it comes by email. As a rule, not only your email address is the recipient address in your client, but also the sender address
+
+For good reason I have removed the email address and also the Bitcoin address.
+
 >Subject Hey, you have forgotten something
 >
 >Attention! Read this message to the end. This is not a joke.
@@ -85,3 +90,5 @@ categories:
 >
 >Here is my last advice to you. In future you better ensure you stay away from this kind of situations.
 >My advice - don't forget to regularly update your passwords to feel completely secure.
+
+If you don't have a camera on your computer, you have nothing to worry about. If in doubt, it helps to habitually cover the camera when you are not in a video conference.
